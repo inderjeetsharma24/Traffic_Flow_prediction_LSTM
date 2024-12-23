@@ -51,6 +51,4 @@ The dataset, `Metro_Interstate_Traffic_Volume.csv`, contains traffic volume data
 
 3. **Results:**
 
-### Test Results
-
 * **Mean Absolute Error (MAE): 0.0302
